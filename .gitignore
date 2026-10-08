@@ -1,0 +1,13 @@
+config.yaml
+data/
+dist/
+*.zip
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.session
+*.session-journal
+
+chats/**/*.txt
+!chats/**/_*.txt
