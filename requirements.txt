@@ -2,3 +2,4 @@ telethon>=1.36
 httpx>=0.27
 PyYAML>=6.0
 snowballstemmer>=2.2
+anthropic>=1.0
